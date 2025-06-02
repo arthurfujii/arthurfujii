@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arthur Fujii</h1>
 <h3 align="center">I'm brazilian fullstack developer.</h3>
 
-- 🌱 I’m currently learning **Docker** :whale: and **Spring-boot** :leaves:
+- 🌱 I’m currently learning **Docker** :whale:
 
 - 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, React, Node.js**
 
